@@ -9,4 +9,8 @@
     <a href="">fans</a>
     <a href="">news</a>
     <a href="">shop</a>
+    <nav>
+        <img src="/config/img/jumbotron.jpg" alt="">
+
+    </nav>
 </header>
